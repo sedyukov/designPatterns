@@ -15,3 +15,6 @@ class Database {
 
 const mongo = new Database('MongoDB');
 console.log(mongo.getData());
+
+const mySql = new Database('My Database');
+console.log(mySql.getData());
