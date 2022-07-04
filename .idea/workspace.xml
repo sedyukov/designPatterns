@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a9aacc1-539c-4066-836a-0c65e5015f66" name="Changes" comment="feature: add decorator">
-      <change afterPath="$PROJECT_DIR$/structural/facade.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structural/flyweight.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656821726087</updated>
       <workItem from="1656821727207" duration="4162000" />
+      <workItem from="1656905056555" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="feature: add singleton">
       <created>1656847348024</created>
@@ -92,6 +96,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature: add singleton" />
